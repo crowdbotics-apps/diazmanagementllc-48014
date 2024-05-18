@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-2fa](modules/2fa)
 - [react-native-typeform-webhook](modules/typeform-webhook)
 - [react-native-social-login](modules/social-login)
+- [react-native-zoom-free-calling](modules/zoom-free-calling)
 
 # Getting started: Frontend
 
